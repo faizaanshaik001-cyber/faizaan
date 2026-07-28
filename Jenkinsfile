@@ -9,6 +9,3 @@ pipeline {
         }
     }
 }
-ansiColor('xterm') {
-    // some block
-}
